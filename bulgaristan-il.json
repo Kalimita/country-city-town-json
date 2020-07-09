@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "il": "BURGAS",
+      "plaka": "A"
+    },
+    {
+      "id": 2,
+      "il": "VARNA",
+      "plaka": "B"
+    },
+    {
+      "id": 3,
+      "il": "VİDİN EYALETİ",
+      "plaka": "BH"
+    },
+    {
+      
+      "id": 4,
+      "il": "VRATSA",
+      "plaka": "BP"
+    },
+    {
+      
+      "id": 5,
+      "il": "VELİKO TIRNOVO",
+      "plaka": "BT"
+    },
+    {
+      
+      "id": 6,
+      "il": "BLAGOEVGRAD",
+      "plaka": "E"
+    },
+    {
+      
+      "id": 7,
+      "il": "GABROVO",
+      "plaka": "EB"
+    },
+    {
+      
+      "id": 8,
+      "il": "PLEVEN",
+      "plaka": "EH"
+    },
+    {
+      
+      "id": 9,
+      "il": "KIRCAALİ",
+      "plaka": "K"
+    },
+    {
+      
+      "id": 10,
+      "il": "KÖSTENDİL",
+      "plaka": "KH"
+    },
+    {
+      
+      "id": 11,
+      "il": "MONTANA",
+      "plaka": "M"
+    },
+    {
+      
+      "id": 12,
+      "il": "ŞUMNU",
+      "plaka": "H"
+    },
+    {
+      
+      "id": 13,
+      "il": "LOVECH",
+      "plaka": "OB"
+    },
+    {
+      
+      "id": 14,
+      "il": "RUSE",
+      "plaka": "P"
+    },
+    {
+      
+      "id": 15,
+      "il": "PAZARCIK",
+      "plaka": "PA"
+    },
+    {
+      "id": 16,
+      "il": "PLOVDİV",
+      "plaka": "PB"
+    },
+    {
+      "id": 17,
+      "il": "PERNİK",
+      "plaka": "PK"
+    },
+    {
+      "id": 18,
+      "il": "RAZGRAD",
+      "plaka": "PP"
+    },
+    {
+      "id": 19,
+      "il": "SOFYA (SERMAYE)",
+      "plaka": "C, CA, CB"
+    },
+    {
+      "id": 20,
+      "il": "SLİVEN",
+      "plaka": "CH"
+    },
+    {
+      "id": 21,
+      "il": "SMOLYAN",
+      "plaka": "CM"
+    },
+    {
+      "id": 22,
+      "il": "SOFYA",
+      "plaka": "CO"
+    },
+    {
+      "id": 23,
+      "il": "SİLİSTRE",
+      "plaka": "CC"
+    },
+    {
+      
+      "id": 24,
+      "il": "ESKİ ZAĞRA",
+      "plaka": "CT"
+    },
+    {
+      
+      "id": 25,
+      "il": "TIRGOVİŞTE",
+      "plaka": "T"
+    },
+    {
+      
+      "id": 26,
+      "il": "DOBRİÇ",
+      "plaka": "TX"
+    },
+    {
+      
+      "id": 27,
+      "il": "YAMBOL",
+      "plaka": "Y"
+    },
+    {
+      
+      "id": 28,
+      "il": "HASKOVO",
+      "plaka": "X"
+    }
+]
