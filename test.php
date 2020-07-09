@@ -26,7 +26,7 @@
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script>
-    $.getJSON("il-bolge.json", function(sonuc){
+    $.getJSON("tr-il-bolge.json", function(sonuc){
         $.each(sonuc, function(index, value){
             var row="";
             row +='<option value="'+value.il+'">'+value.il+'</option>';
@@ -39,7 +39,7 @@
         var il=$(this).val();
 
         $("#ilce").attr("disabled", false).html("<option value=''>Seçin..</option>");
-        $.getJSON("il-ilce.json", function(sonuc){
+        $.getJSON("tr-il-ilce.json", function(sonuc){
             $.each(sonuc, function(index, value){
                 var row="";
                 if(value.il==il)
